@@ -7,7 +7,7 @@ import asyncio
 async_comprehension = using("1-async_comprehension").async_comprehension
 
 
-async def measure_runtime():
+async def measure_runtime() -> float:
     """
     Attributes:
         no arguments
