@@ -5,7 +5,7 @@ import random
 import asyncio
 
 
-async def async_generator():
+async def async_generator() -> list:
     """
     Attributes:
         no arguments
