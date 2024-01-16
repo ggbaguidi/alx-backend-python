@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """ Async Comprehensions"""
 
 from importlib import import_module as using
