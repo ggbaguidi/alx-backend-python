@@ -3,9 +3,10 @@
 
 import random
 import asyncio
+from typing import List
 
 
-async def async_generator() -> list:
+async def async_generator() -> List[float]:
     """
     Attributes:
         no arguments
